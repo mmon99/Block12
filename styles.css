@@ -14,6 +14,10 @@
   background-color: linen;
 }
 
+body {
+  min-height: max-content;
+}
+
 header {
   display: flex;
   flex-wrap: wrap;
@@ -118,4 +122,9 @@ h4 {
   font-weight: bold;
   text-align: center;
   margin: auto;
+}
+
+footer {
+  margin-top: 5em;
+  margin-bottom: 20em;
 }
