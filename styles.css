@@ -16,6 +16,8 @@
 
 header {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
   background-color: aquamarine;
   position: sticky;
   top: 0;
